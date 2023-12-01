@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "__GNUC__=6",
+        "__cdecl=__attribute__((__cdecl__))"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "browse": {
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": "",
+        "path": [
+          "${workspaceRoot}",
+          "C:/MinGW-W64 GCC/mingw64/include/**",
+          "C:/MinGW-W64 GCC/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+          "C:/MinGW-W64 GCC/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+          "C:/MinGW-W64 GCC/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+          "C:/MinGW-W64 GCC/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+          "C:/MinGW-W64 GCC/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+          "C:/MinGW-W64 GCC/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+        ]
+      },
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "compilerPath": "C:/MinGW-W64 GCC/mingw64/bin/gcc.exe"
+    }
+  ],
+  "version": 4
+}
