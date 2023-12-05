@@ -5,6 +5,6 @@
 using namespace std;
 int main()
 {
-    cout<<"jhrbvskjn"<<endl;
-    printf("uhjdfbgfvn");
+    cout<<"二组："<<endl;
+    printf("杨佳俊\n赵晨虎\n王俊杰\n");
 }
